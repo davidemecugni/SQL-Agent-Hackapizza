@@ -16,3 +16,4 @@ test.env
 
 coverage_re
 /poetry.lock
+cache/
